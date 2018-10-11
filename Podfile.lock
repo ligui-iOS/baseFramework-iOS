@@ -1,0 +1,58 @@
+PODS:
+  - Alamofire (4.7.0)
+  - CryptoSwift (0.8.3)
+  - CYLTabBarController (1.17.6)
+  - Kingfisher (4.6.4)
+  - MJRefresh (3.1.15.3)
+  - Moya (11.0.1):
+    - Moya/Core (= 11.0.1)
+  - Moya/Core (11.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - ObjectMapper (3.1.0)
+  - Result (3.2.4)
+  - SnapKit (4.0.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - CryptoSwift
+  - CYLTabBarController
+  - Kingfisher
+  - MJRefresh
+  - Moya
+  - ObjectMapper
+  - SnapKit
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CryptoSwift
+    - CYLTabBarController
+    - Kingfisher
+    - MJRefresh
+    - Moya
+    - ObjectMapper
+    - Result
+    - SnapKit
+    - SVProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 907e0a98eb68cdb7f9d1f541a563d6ac5dc77b25
+  CryptoSwift: 033efc3523865d19cc6ab6612fa17a62613b5dfa
+  CYLTabBarController: c374643dea6dadece8bdff9c70f7387f8ffd7d08
+  Kingfisher: 68498a706e46c2a050b0c9572f100e5db407f6e0
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  Moya: 3d594ada51a21cc02b18739ab578a1984f900c8a
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: c574a950317220529ec98f8d7b5fa59a0744d614
+
+COCOAPODS: 1.5.3
